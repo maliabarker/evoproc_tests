@@ -7,3 +7,4 @@ uv.lock
 .venv
 .ruff_cache
 pyproject.toml
+__pycache__
