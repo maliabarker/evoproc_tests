@@ -2,3 +2,8 @@ venv
 .history
 runs
 runs/*
+.python-version
+uv.lock
+.venv
+.ruff_cache
+pyproject.toml
