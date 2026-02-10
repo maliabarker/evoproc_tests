@@ -8,3 +8,11 @@ uv.lock
 .ruff_cache
 pyproject.toml
 __pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.jsonl
+*.json          
